@@ -13,4 +13,4 @@ app.use(router);
 
 app.mount('#app');
 
-console.log("hi");
+console.log("hello");
